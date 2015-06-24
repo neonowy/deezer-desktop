@@ -1,0 +1,19 @@
+{
+  "name": "deezer-desktop",
+  "version": "1.0.0",
+  "description": "Deezer app on Windows, OS X and Linux desktop.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neonowy/deezer-desktop.git"
+  },
+  "author": "Krzysztof Zbudniewek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neonowy/deezer-desktop/issues"
+  },
+  "homepage": "https://github.com/neonowy/deezer-desktop"
+}
